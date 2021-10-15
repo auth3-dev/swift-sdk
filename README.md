@@ -22,6 +22,7 @@ Not your target language? Check out our official SDKs for:
   * [cpp](https://github.com/auth3-dev/cpp-sdk)
   * [java](https://github.com/auth3-dev/java-sdk)
   * [nodejs](https://github.com/auth3-dev/nodejs-sdk)
+  * [dart](https://github.com/auth3-dev/dart-sdk)
   * [python](https://github.com/auth3-dev/python-sdk)
   * [php](https://github.com/auth3-dev/php-sdk)
   * [ruby](https://github.com/auth3-dev/ruby-sdk)
