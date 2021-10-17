@@ -6,6 +6,20 @@ The official [Auth3](https://auth3.dev/?utm_source=github&utm_medium=sdk&utm_cam
 
 Check-out the API documentation at [https://docs.auth3.dev/apis/identity-platform/administrative](https://docs.auth3.dev/apis/identity-platform/administrative?utm_source=github&utm_medium=sdk&utm_campaign=swift) for further help.
 
+## Installation 
+
+```
+.Package(url: "https://github.com/auth3-dev/swift-sdk.git", branch: "main")
+```
+
+Or select a specific version from any [available tags](https://github.com/auth3-dev/swift-sdk/tags), for example:
+
+```
+.Package(url: "https://github.com/grpc/grpc-swift.git", .upToNextMajor(from: "1.0.0"))
+```
+
+The above will allow anything from 1.0.0 to 2.0.0.
+
 ## Build
 
 You need XCode to load the root folder and build the source code.
